@@ -8,7 +8,6 @@ variables:
   buildConfiguration: Release
 
 steps:
-- 
 - task: CmdLine@2
   inputs:
     script: |
