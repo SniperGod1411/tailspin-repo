@@ -12,4 +12,4 @@ steps:
   inputs:
     script: |
       dotnet build --configuration $(buildConfiguration)    
-  displayName: "build configuration: $(buildConfiguration)"
+      displayName: "build configuration: $(buildConfiguration)"
