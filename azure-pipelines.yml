@@ -10,6 +10,5 @@ variables:
 steps:
 - task: CmdLine@2
   inputs:
-    script: |
-      dotnet build --configuration $(buildConfiguration)    
-      displayName: "build configuration: $(buildConfiguration)"
+    script: dotnet build --configuration $(buildConfiguration)    
+  displayName: "build configuration: $(buildConfiguration)"
