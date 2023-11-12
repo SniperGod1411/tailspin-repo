@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/AzDevops1411/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status%2FSniperGod1411.tailspin-repo?branchName=refs%2Fpull%2F3%2Fmerge)](https://dev.azure.com/AzDevops1411/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=11&branchName=refs%2Fpull%2F3%2Fmerge)
 
 # Contributing
 
